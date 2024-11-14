@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.multiRootWorkspaceName": "senai-id"
+    "liveServer.settings.multiRootWorkspaceName": "senai-id",
+    "liveServer.settings.port": 5501
 }
